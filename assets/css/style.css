@@ -3,3 +3,14 @@
     color: green;
     font-size: 30px;
 }
+
+heading {
+    color:indigo
+    font-size: 50px;
+    font-family: cursive;
+}
+
+.caption {
+    color:grey;
+    font-size: 20px;
+}
